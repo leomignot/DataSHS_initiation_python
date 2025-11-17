@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+
+# Fichiers temporaires Word/Excel
+~$*
+
+# Files
+TODO.md
