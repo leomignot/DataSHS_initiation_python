@@ -23,3 +23,5 @@ Ce dépot contient :
 - les données utilisées
 - les notebooks utilisés pour découvrir le langage
 - les démos présentées
+
+[Accès aux slides](https://leomignot.github.io/DataSHS_initiation_python/sildes/slides.html)
