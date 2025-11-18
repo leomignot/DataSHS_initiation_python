@@ -4,7 +4,7 @@ Léo Mignot (CED, CNRS, Sciences Po Bordeaux)
 
 ## Résumé :
 
-Cette séance propose une initiation à la programmation scientifique en Python, pensée pour les SHS. Python est un langage libre, simple et multiplateforme, bénéficiant d’une large communauté scientifique. Avec la multiplication des données numériques, la programmation est devenue un atout pour la collecte, le traitement et l’analyse des données.La session couvrira les bases du langage et l’usage de bibliothèques (notamment pandas) pour l’analyse de données.
+Cette séance propose une initiation à la programmation scientifique en Python, pensée pour les SHS. Python est un langage libre, simple et multiplateforme, bénéficiant d’une large communauté scientifique. Avec la multiplication des données numériques, la programmation est devenue un atout pour la collecte, le traitement et l’analyse des données. La session couvrira les bases du langage et l’usage de bibliothèques (notamment pandas) pour l’analyse de données.
 
 ## Public cible :
 Toute personne souhaitant découvrir Python pour le traitement de données. Aucun prérequis n’est nécessaire.
@@ -24,4 +24,4 @@ Ce dépot contient :
 - les notebooks utilisés pour découvrir le langage
 - les démos présentées
 
-[Accès aux slides](https://leomignot.github.io/DataSHS_initiation_python/sildes/slides.html)
+[Accès aux slides](https://leomignot.github.io/DataSHS_initiation_python/slides/slides.html)
