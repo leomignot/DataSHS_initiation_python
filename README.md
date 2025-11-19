@@ -1,6 +1,6 @@
 # Initiation à Python - DataSHS
 
-Léo Mignot (CED, CNRS, Sciences Po Bordeaux)
+Formation donnée le 08/12/2025 dans le cadre de la semaine Data SHS.
 
 ## Résumé :
 
@@ -15,6 +15,8 @@ Avant la formation, il est conseillé :
 - d’installer *Anaconda* : https://www.anaconda.com/products/individual
 - ou d’utiliser *Google Colab* : https://colab.google/
 - ou d’avoir un compte *SSPcloud (INSEE)* : https://datalab.sspcloud.fr
+
+*Note : Dans le cadre de formations courtes avec un public peu expert, colab présente l'avantage de marcher sans trop de besoin de configuration. Néanmoins, "google c'est mal" et des alternatives sont donc listées. Ce point sera détaillé durant la séance.*
 
 ## Contenu du dépot :
 Ce dépot contient :
