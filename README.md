@@ -20,7 +20,7 @@ Avant la formation, il est conseillé :
 - ou d’utiliser *Google Colab* : <https://colab.google/>
 - ou d’avoir un compte *SSPcloud (INSEE)* : <https://datalab.sspcloud.fr>
 
-*Note : Dans le cadre de formations courtes avec un public peu expert, colab présente l'avantage de marcher sans trop de besoin de configuration. Néanmoins, "google c'est mal" et des alternatives sont donc listées. Ce point sera détaillé durant la séance.*
+*Note : Dans le cadre de formations courtes avec un public peu expert, colab présente l'avantage de marcher sans trop de besoin de configuration. Néanmoins,* google c'est mal. *Ce point sera détaillé durant la séance.*
 
 ## Contenu du dépot
 
