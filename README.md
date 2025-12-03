@@ -31,4 +31,6 @@ Ce dépot contient :
 - les notebooks utilisés pour découvrir le langage
 - les démos présentées
 
+[Accès au dépôt Google Colab si besoin](https://drive.google.com/drive/folders/1sxA4cLqTAVHtIlTtoZl2nZIrLi6PIQyG?usp=drive_link)
+
 [Accès aux slides](https://leomignot.github.io/DataSHS_initiation_python/slides/slides.html)
