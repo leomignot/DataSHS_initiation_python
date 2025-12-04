@@ -33,12 +33,11 @@ Ce dépot contient :
 
 <!-- [Accès au dépôt Google Colab si besoin](https://drive.google.com/drive/folders/1sxA4cLqTAVHtIlTtoZl2nZIrLi6PIQyG?usp=drive_link) -->
 
-
-Accès facilité aux demos et notebooks :
+**Accès facilité aux demos et notebooks :**
 - [demo_network](https://colab.research.google.com/github/leomignot/DataSHS_initiation_python/blob/main/demo/demo_network.ipynb)
 - [demo_viz](https://colab.research.google.com/github/leomignot/DataSHS_initiation_python/blob/main/demo/demo_viz.ipynb)
 - [01-getting-started-fr](https://colab.research.google.com/github/leomignot/DataSHS_initiation_python/blob/main/notebooks/01-getting-started-fr.ipynb)
 - [02-data-types-and-structures-fr](https://colab.research.google.com/github/leomignot/DataSHS_initiation_python/blob/main/notebooks/02-data-types-and-structures-fr.ipynb)
 - [04-data-exploration-columns-fr](https://colab.research.google.com/github/leomignot/DataSHS_initiation_python/blob/main/notebooks/04-data-exploration-columns-fr.ipynb)
 
-[Accès aux slides](https://leomignot.github.io/DataSHS_initiation_python/slides/slides.html)
+**Accès [aux slides](https://leomignot.github.io/DataSHS_initiation_python/slides/slides.html)**
