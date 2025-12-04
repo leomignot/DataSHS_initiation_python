@@ -34,3 +34,6 @@ Ce dépot contient :
 [Accès au dépôt Google Colab si besoin](https://drive.google.com/drive/folders/1sxA4cLqTAVHtIlTtoZl2nZIrLi6PIQyG?usp=drive_link)
 
 [Accès aux slides](https://leomignot.github.io/DataSHS_initiation_python/slides/slides.html)
+
+TEST
+- [Easy acces to NBs?](https://colab.research.google.com/github/leomignot/DataSHS_initiation_python/blob/main/notebooks/01-getting-started-fr.ipynb)
