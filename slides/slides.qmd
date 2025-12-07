@@ -6,6 +6,7 @@ date: 2025-12-08
 #format: pptx
 format: 
     revealjs:
+        scrollable: true
         slideNumber: true
         embed-resources: true
 ---
@@ -72,8 +73,6 @@ Dépôt Github : [https://github.com/leomignot/DataSHS_initiation_python](https:
 ## La numérisation de la science
 
 - Numérisation comme point de passage obligé 
-    - ["*L’historien de demain sera programmeur ou ne sera plus*" (Emmanuel Le Roy Ladurie, 1968)](https://journals.openedition.org/framespa/14370)
-    - ["*De la poussière à la lumière bleue*" de Caroline Muller et Frédéric Clavert, Signata, 2021](https://journals.openedition.org/signata/3136)
 - Explosion et circulation des données
     - Comment les actionner ?
 - Courant profond et puissant de la science ouverte
@@ -403,7 +402,7 @@ Si vous voulez des critiques : [I don't like notebooks.- Joel Grus](https://www.
 
 ---
 
-## Depuis quel outil ?
+## Depuis quel outil ? {.smaller}
 
 
 Pour la séance, au choix :
@@ -414,9 +413,7 @@ Pour la séance, au choix :
 
 Plus avancés :
 
-- [uv](https://docs.astral.sh/uv/)
-- [poetry](https://python-poetry.org/)
-- etc.
+- [uv](https://docs.astral.sh/uv/) ; [poetry](https://python-poetry.org/) ; etc.
 
 
 <!-- Ces slides (et plus généralement les formations) sont le résultat d'échanges et de collaborations. 
