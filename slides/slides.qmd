@@ -385,7 +385,7 @@ Philosophie générale de la programmation lettrée
 
 ---
 
-## Nous : notebooks Jupyter
+## Nous : notebooks Jupyter {.smaller}
 
 Avantages :
 
