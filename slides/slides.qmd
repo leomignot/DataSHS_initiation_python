@@ -2,7 +2,7 @@
 title: "Python pour les SHS"
 subtitle: "Pourquoi programmer en Python ?"
 author: "Léo Mignot (& Émilien Schultz)"
-date: 2025-12-08
+#date: 
 #format: pptx
 format: 
     revealjs:

@@ -1,7 +1,5 @@
 # Initiation à Python - DataSHS
 
-Formation donnée le 08/12/2025 dans le cadre de la semaine Data SHS.
-
 ## Résumé
 
 Cette séance propose une initiation à la programmation scientifique en Python, pensée pour les SHS.  
@@ -24,14 +22,12 @@ Avant la formation, il est conseillé :
 
 ## Contenu du dépot
 
-Ce dépot contient :
+Ce dépôt contient :
 
 - les diapos de la présentation
 - les données utilisées
 - les notebooks utilisés pour découvrir le langage
 - les démos présentées
-
-<!-- [Accès au dépôt Google Colab si besoin](https://drive.google.com/drive/folders/1sxA4cLqTAVHtIlTtoZl2nZIrLi6PIQyG?usp=drive_link) -->
 
 **Accès facilité aux demos et notebooks :**
 
